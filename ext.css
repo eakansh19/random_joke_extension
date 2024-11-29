@@ -1,0 +1,22 @@
+body{
+    background-color: #cfcfcf;
+    height: 100px;
+    width: 250px;
+    font-family: 'Poppins';;
+}
+#header{
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration:  underline wavy red;
+}
+#joke{
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
